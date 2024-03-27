@@ -28,7 +28,7 @@ The tool is publically available here: https://nilshellwig.github.io/CitationSor
 
 ## Contributions
 
-Contributions to CitationSorterWeb are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+Contributions to CitationSorter Web are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## License
 
